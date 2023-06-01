@@ -7,18 +7,18 @@
 #Define Variables
   
     1.    forecast (object):  contains the following properties:
-    ⁃    temperature (number): the current temperature in ferenheight
-    ⁃    isRaining (boolean):  If true, it is currently raining
+      ⁃    temperature (number): the current temperature in ferenheight
+      ⁃    isRaining (boolean):  If true, it is currently raining
     2.    attire (object): contains the following properties:
-    ⁃    rainJacket (boolean): If true, wear the rain jacket
-    ⁃    warmCoat (boolean): If true, wear the warm coat
-    ⁃    hoodie (boolean): If true, wear the hoodie
-    ⁃    tShirt (boolean): If true, wear the t-shirt
-    ⁃    pants (boolean): If true, wear the pants
-    ⁃    shorts (boolean): If true, wear the shorts
-    ⁃    socks (boolean): If true, wear the socks
-    ⁃    shoes (boolean): If true, wear the shoes
-    ⁃    sandals (boolean): If true, wear the sandals
+      ⁃    rainJacket (boolean): If true, wear the rain jacket
+      ⁃    warmCoat (boolean): If true, wear the warm coat
+      ⁃    hoodie (boolean): If true, wear the hoodie
+      ⁃    tShirt (boolean): If true, wear the t-shirt
+      ⁃    pants (boolean): If true, wear the pants
+      ⁃    shorts (boolean): If true, wear the shorts
+      ⁃    socks (boolean): If true, wear the socks
+      ⁃    shoes (boolean): If true, wear the shoes
+      ⁃    sandals (boolean): If true, wear the sandals
 
 #INIT Variables
 
